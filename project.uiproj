@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_Processamento_Solicitacoes_GoogleSheets",
+  "ProjectType": "Process",
+  "Description": "Automatizar o processamento de solicitações registradas em uma planilha do Google Sheets, abrangendo a validação de dados, aplicação de regras de negócio, tratamento de erros com tentativas automáticas e atualização dos resultados finais, tudo organizado em uma estrutura modular liderada pelo Main.xaml",
+  "MainFile": "Main.xaml"
+}
